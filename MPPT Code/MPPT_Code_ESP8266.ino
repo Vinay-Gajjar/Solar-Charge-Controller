@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------------------------------
-//
+// Credit to Debashish Dutta.
 // ARDUINO SOLAR CHARGE CONTROLLER (MPPT)  
 //
 //  This code is a modified version of sample code from   http://www.timnolan.com/.
